@@ -1,0 +1,5 @@
+../Core/Src/mylibrary.c:13:6:reverse	32	static
+../Core/Src/mylibrary.c:28:5:intToStr	32	static
+../Core/Src/mylibrary.c:48:6:ftoa	80	static
+../Core/Src/mylibrary.c:106:9:string_compare	32	static
+../Core/Src/mylibrary.c:120:6:Message_handler	72	static
